@@ -15,7 +15,7 @@
 //                 <div class="collapse navbar-collapse justify-content-end " id="navbarSupportedContent">
 //                    <ul class="navbar-nav mb-2 mb-lg-0 ">
 //                       <li class="nav-item mr-10">
-//                         <a class="nav-link active" aria-current="page" href="#">HOME</a>
+//                         <a class="nav-link active" aria-current="page" href="/">HOME</a>
                     
 //                      </li>
 //                      <li class="nav-item">
@@ -125,7 +125,7 @@ export default function Navbar() {
             <div className="shadow-lg p-3 mb-5 rounded">
                 <nav className="navbar navbar-expand-lg navbar-light bg-*">
                     <div className="container">
-                        <a className="navbar-brand" href="#">
+                        <a className="navbar-brand" href="/">
                             <h4>&lt; ROSHAN&#47;&gt;</h4>
                         </a>
                         <button
