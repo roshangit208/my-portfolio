@@ -1,0 +1,22 @@
+.heading-area{
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 70%;
+    color: white;
+}
+
+.big-heading h1
+{
+    font-size: 80px;
+    text-wrap: wrap;
+}
+
+.heading-area button a {
+  color: white;
+    text-decoration: none;
+}
+
+.svg-path
+{
+    transition: all 0.3s ease 0s;
+}

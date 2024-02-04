@@ -1,0 +1,30 @@
+.aboutme-wrapper
+{
+    display: flex;
+    justify-content: center;
+    margin: 70px auto 70px auto;
+    color: white;
+}
+
+.shadow-box
+{
+
+    border-radius: 30px;
+}
+
+.aboutme-card
+{
+    width: 67vw;
+    height: fit-content;
+    padding: 30px;
+    border-radius: 5px;
+}
+.aboutme-card-header
+{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.aboutme-card-details
+{
+    font-weight: 100;
+}
