@@ -1,5 +1,5 @@
 import "./Profile.css";
-import Img from "./assets/profilepic.png"
+import Img from "./assets/profilepic4.png"
 
 export default function Profile() {
   return (
@@ -39,9 +39,9 @@ export default function Profile() {
                {/* <image className="profile-pic"  x={16}  y={12} xlinkHref={Img} />  */}
                <image
          mask="url(#mask1)"
-         preserveAspectRatio="xMidYMid meet" x="18" y="10"
+         preserveAspectRatio="xMidYMid meet" x="-2" y="8"
          xlinkHref={Img}
-         width="80%" height="80%" />            
+         width="120%" height="120%" />            
                 </g>
               </svg>
 
