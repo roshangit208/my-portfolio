@@ -15,7 +15,7 @@ export default function Contact() {
     <>
        
        <div className="contact-me-header"id="contact">
-       <h6>&lt; CONTACT-ME&#47;&gt;</h6>
+       <h4>&lt; CONTACT-ME&#47;&gt;</h4>
        </div>
 
        <div class="  shadow-lg p-3 mb-5  container contact-form " >

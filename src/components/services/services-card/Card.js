@@ -4,7 +4,7 @@ import "./Card.css"
 export default function Card({service}) {
   return (
     <>
-    <div className="col col-lg-4 col-md-12  col-sm-6">
+    <div className="col col-lg-4 col-md-12  col-sm-12">
     <figure>
           <img src={service.serviceimg} alt="Mountains" />
           <figcaption>

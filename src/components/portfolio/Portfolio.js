@@ -9,13 +9,13 @@ export default function Portfolio() {
        
       <div className="portfolio-wrapper " id="portfolio">
            <div className="portfolio-header" >
-             <h6>&lt; PORTFOLIO&#47;&gt;</h6>
+             <h4>&lt; PORTFOLIO&#47;&gt;</h4>
            </div>
 
            <div className="portfolio-content" >
 
           
-        <div className="row justify-content-evenly">  
+        <div className="row justify-content-evenly cust-row">  
         <Card key={Cards[0].id} card={Cards[0]} />  
         </div>  
         <div className="row justify-content-evenly flex-row-reverse ">   

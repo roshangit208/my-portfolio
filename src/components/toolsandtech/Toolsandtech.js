@@ -9,7 +9,7 @@ export default function Toolsandtech() {
                     <div class="col-md-11">
                         <div className="progress-bar-wrapper"id="toolsandtech" >
                             <div className="progress-bar-title">
-                            <h6>&lt;LANGUAGES&#47;&gt;  AND  &lt;TOOLS&#47;&gt;</h6>
+                            <h4>&lt;LANGUAGES&#47;&gt;  AND  &lt;TOOLS&#47;&gt;</h4>
                             </div>
                             <div className="progress-bar-content">
                                 <h3 class="progress-title">HTML</h3>

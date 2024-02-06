@@ -10,7 +10,7 @@ export default function Services() {
        
        <div className="services-wrapper "id="services">
             <div className="services-header" >
-              <h6>&lt; SERVICES&#47;&gt;</h6>
+              <h4>&lt; SERVICES&#47;&gt;</h4>
             </div>
  
             <div className="services-content" >

@@ -26,7 +26,7 @@ export default function Card({card}) {
 
       <div className="col col-lg-5 col-md-8 col-sm-12 col-xs-12">
          <div className="card-detail-wrapper">
-            <div className="project-title"> <h6>{ card.projectname} </h6> </div>
+            <div className="project-title"> <h5>{ card.projectname} </h5> </div>
             <div className="project-content"> 
              <p>{card.desc}</p>
             </div>

@@ -3,12 +3,6 @@
     text-align: center;
     color: white;
     margin-bottom: 30px;
+    font-family: 'Protest Riot', sans-serif;
 }
 
-@media only screen and (min-width: 400px)
-{
-    .row
-    {
-        display: flex;
-    }
-}

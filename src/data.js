@@ -1,34 +1,34 @@
 export const Cards = [
     
     {
-        id : 4 ,
-        projectname : "4. Todo-List Web Application ( EJS | Express.js | Node.js | MongoDB )  ",
-        projectimg : "assets/todolist.png",
-        desc : "A dynamic project powered by EJS, Express.js, Node.js, and MongoDB. Experience seamless task management with a responsive interface, real-time updates, and robust data storage, offering a modern solution to organize your daily tasks effortlessly."
-    }
-    ,
-
-    {
         id : 1 ,
-        projectname : " 1. Tindog Website   ( Boostrap )",
+        projectname : " 1. Tindog Website ",
         projectimg : "assets/project1.png",
-        desc : "A one-page website leveraging Bootstrap's power. With seamlessly integrated containers, dynamic carousels, intuitive buttons etc. this project delivers a visually appealing and user-friendly experience, making your content shine effortlessly."
+        desc : "Tindog is a Bootstrap-powered single-page website inspired by Tinder, designed for pet enthusiasts. Integrating components like containers, carousels, navbar, buttons, and forms, Tindog provides a visually appealing and user-friendly platform for discovering and connecting with potential pet matches. Swipe through dynamic pet carousels, explore profiles within structured containers, and engage effortlessly with intuitive navigation and buttons for a delightful pet adoption experience."
     }
     ,
     {
         id : 2 ,
-        projectname : "2. Web-based Calculator ( HTML | CSS | JS )",
+        projectname : "2. Web-based Calculator",
         projectimg : "assets/calculator.png",
-        desc : "A simple yet powerful calculator built with core HTML, CSS, and JavaScript. Experience a clean design, intuitive user interface, and seamless functionality for all your basic arithmetic needs"
+        desc : "  Introducing a sleek calculator designed using essential HTML, CSS, and JavaScript components. Its clean layout ensures an intuitive user experience, while seamless functionality caters to all basic arithmetic operations. Whether it's addition, subtraction, multiplication, or division, this calculator guarantees smooth operation. Enjoy a clutter-free interface that prioritizes simplicity without compromising on power, making it your go-to tool for everyday calculations."
 
     }
      ,
     {
         id : 3 ,
-        projectname : "3. Simon Game   ( HTML | CSS | JS | jQuery )",
+        projectname : "3. Simon Game ",
         projectimg : "assets/Simon.png",
-        desc : "An engaging project crafted with core HTML, CSS, JavaScript, and jQuery. Immerse yourself in a classic Simon game experience with a stylish design, responsive interface, and interactive gameplay that challenges your memory skills."
+        desc : "Dive into an immersive Simon game project, meticulously built with HTML, CSS, JavaScript, and jQuery. Experience a blend of classic gameplay and modern design elements, creating an engaging user experience. Challenge your memory skills with its interactive interface, designed to be responsive across various devices. Get ready for hours of fun as you test your concentration and reflexes in this stylishly crafted rendition of a timeless game."
     }
+    ,
+    {
+        id : 4 ,
+        projectname : "4. Todo-List Web Application",
+        projectimg : "assets/todolist.png",
+        desc :" Explore a dynamic task management project leveraging EJS, Express.js, Node.js, and MongoDB. Immerse yourself in a seamless experience featuring a responsive interface and real-time updates. With robust data storage capabilities, this modern solution revolutionizes daily task organization, offering efficiency and convenience at your fingertips. Say goodbye to chaos and hello to effortless productivity with this innovative platform"
+    }
+
     
 
 ];
